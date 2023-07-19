@@ -199,3 +199,4 @@ app_license = "MIT"
 # auth_hooks = [
 #	"bridgecollage_custom.auth.validate"
 # ]
+app_include_js='/assets/bridgecollage_custom/js/autofill_student_group.js'

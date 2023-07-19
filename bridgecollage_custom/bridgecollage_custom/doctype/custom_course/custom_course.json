@@ -23,12 +23,13 @@
  ],
  "fields": [
   {
-   "fieldname": "course_name",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Course Name",
-   "reqd": 1,
-   "translatable": 1
+    "fieldname": "course_name",
+    "fieldtype": "Data",
+    "in_list_view": 1,
+    "label": "Course Name",
+    "reqd": 1,
+    "translatable": 1,
+    "unique": 0
   },
   {
    "fieldname": "department",
